@@ -1,0 +1,6 @@
+This program was developed in Al-Azhar University
+By students from the College of Engineering, Department of Electrical Engineering
+Use of the software for personal or educational purposes is permitted
+The software is never permitted for commercial or profit purposes
+Or modify it, except when permission is taken from Ahmed El-Tawil
+Email: eltawil1999@gmail.com
